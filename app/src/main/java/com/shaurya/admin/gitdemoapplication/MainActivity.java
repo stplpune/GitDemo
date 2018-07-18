@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action amol", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Set your action Name", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
                 //Amrut test git hub for first time
             }
